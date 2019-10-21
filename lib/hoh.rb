@@ -50,7 +50,7 @@ def naming_system
             sub_category: {
             label: "Class"
               }
-            }
+            } ,  label: "Order"
           }
 end
 
